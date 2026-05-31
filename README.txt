@@ -1,7 +1,7 @@
 # Sitio Web Personal - Emilie Cabezas
 
 -- Descripción del Proyecto --
-Proyecto universitario para la UTPL que consiste en un sitio web personal interactivo. Está desarrollado con HTML5 semántico, CSS personalizado y backend en PHP con conexión a una base de datos MySQL para gestionar un catálogo dinámico.
+Proyecto que consiste en un sitio web personal interactivo. Está desarrollado con HTML5 semántico, CSS personalizado y backend en PHP con conexión a una base de datos MySQL para gestionar un catálogo dinámico.
 -- Instrucciones de Uso --
 1. Navega por la pestaña Inicio para ver la biografía y los intereses.
 2. Ve a la pestaña Contacto, llena los campos obligatorios del formulario y haz clic en Enviar.
